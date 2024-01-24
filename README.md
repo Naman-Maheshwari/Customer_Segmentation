@@ -1,2 +1,2 @@
 # Customer_Segmentation 
-Bank_Customer Segmentation
+Bank Customer Segmentation
